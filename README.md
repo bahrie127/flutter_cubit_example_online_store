@@ -12,7 +12,7 @@ https://youtu.be/kQ1pScycmYM
 
 | Home        | Detail    |
 |--------------|-----------|
-| <img src="1.png" width="300"/> | <img src="3.png" width="300"/>      |
+| <img src="1.png" width="310"/> | <img src="3.png" width="310"/>      |
 
 ## Contact:
 * Consultation Flutter and Endorse https://t.me/bahri_bhe
